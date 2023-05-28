@@ -1,9 +1,12 @@
-- 👋 Hi, I’m @haleyroko
-- 👀 I’m interested in ... living a good life with my dog
-- 🌱 I’m currently learning ... how to train my dog
-- 💞️ I’m looking to collaborate on ... dog training
-- 📫 How to reach me ... in the park with my dog
-
+- 👋 Hi, I’m @haleyroko haley rose kowal
+- 👀 I’m interested in ... library and information science and social justice
+- 🌱 I’m currently learning ... about metadata, digital stewardship, and other library information science things
+- 💞️ I’m looking to collaborate on ... something cool hmu
+- 📫 How to reach me ... via email or text ... iykyk
+- 🔮 Pronouns ... she/her/hers
+- 🐕 Fun fact ... i have a crazy dog named blue
+- 🌻 Thanks for reading ... have a good day now
+- 
 <!---
 haleyroko/haleyroko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
