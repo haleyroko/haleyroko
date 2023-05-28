@@ -6,7 +6,7 @@
 - 🔮 Pronouns ... she/her/hers
 - 🐕 Fun fact ... i have a crazy dog named blue
 - 🌻 Thanks for reading ... have a good day now
-- 🔍 Have you heard of the [GitHub Arctic Code Vault] (https://www.youtube.com/watch?v=fzI9FNjXQ0o)? This person's [Flickr pics] (https://github.com/emijrp/flickr-timecapsule) are there!
+- 🔍 Have you heard of the [GitHub Arctic Code Vault](https://www.youtube.com/watch?v=fzI9FNjXQ0o)? This person's [Flickr pics](https://github.com/emijrp/flickr-timecapsule) are there!
 <!---
 haleyroko/haleyroko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
