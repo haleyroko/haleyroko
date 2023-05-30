@@ -1,5 +1,5 @@
-__info591__
-- 👋 Hi, I’m @haleyroko **haley rose kowal**
+# info591
+<h3> 👋 Hi, I’m @haleyroko **haley rose kowal** </h3>
 - 👀 I’m interested in ... library and information science and social justice
 - 🌱 I’m currently learning ... about metadata, digital stewardship, and other library information science things
 - 💞️ I’m looking to collaborate on ... something cool hmu
